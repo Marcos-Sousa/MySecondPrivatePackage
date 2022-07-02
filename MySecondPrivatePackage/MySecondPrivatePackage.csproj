@@ -13,4 +13,8 @@
     <RepositoryUrl>https://github.com/Marcos-Sousa/MySecondPrivatePackage</RepositoryUrl>
   </PropertyGroup>
 
+   <ItemGroup>
+    <PackageReference Include="MySecondPrivatePackage" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>
